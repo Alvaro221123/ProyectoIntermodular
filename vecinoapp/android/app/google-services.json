@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520942184590",
+    "project_id": "vecinoapp-41341",
+    "storage_bucket": "vecinoapp-41341.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520942184590:android:877b49702efb71ef5e81df",
+        "android_client_info": {
+          "package_name": "com.example.vecinoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfCNhq0TMIlLB5ufPXS6lLI2FHqAfRt9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
